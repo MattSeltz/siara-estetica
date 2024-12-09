@@ -15,3 +15,5 @@ Sistema de gestión integral para negocios de estética, con funcionalidades com
 
 ## 🌟 Capturas
 ![Captura 1](/home_mobile.PNG)
+![Captura 2](/archivar.PNG)
+![Captura 3](/turno.PNG)
