@@ -12,6 +12,3 @@ Sistema de gestión integral para negocios de estética, con funcionalidades com
 - **Backend:** Node.js, Express.js
 - **Base de datos:** MongoDB
 - **Otras:** Cloudinary para gestión de imágenes
-
-## 🌟 Capturas
-![Captura 1](https://siara-galeria.vercel.app/)
